@@ -1,4 +1,6 @@
 import { Component } from "@angular/core";
+import "./shared/ag-grid-enterprise@20.2.0-crack";
+import "ag-grid-enterprise";
 
 @Component({
   selector: "app-root",
